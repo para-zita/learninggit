@@ -1,2 +1,2 @@
-hello world by tamas
+hello world by thomas
 Add new row to first file
